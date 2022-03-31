@@ -79,5 +79,6 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR pCmdLine
     MessageBox(NULL, L"If you want to make yourself", L"PELMESHKI", MB_OK | MB_ICONINFORMATION);
     MessageBox(NULL, L"Go watch Life of Boris", L"PELMESHKI", MB_OK | MB_ICONINFORMATION);
     MessageBox(NULL, L"HaHa", L"PELMESHKI", MB_OK | MB_ICONINFORMATION);
+    MessageBox(NULL, L"Uamee! Vaino Luke Čemeriov par mani :D #ŠņabisNoKrievijas", , L"PELMESHKI", MB_OK | MB_ICONINFORMATION);
 }
 }
